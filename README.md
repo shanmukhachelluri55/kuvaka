@@ -241,7 +241,7 @@ npm run preview
 
 ## 📞 Support
 
-For support, email support@Geminiai.com or join our Slack channel.
+For support, email 19bcs1072@gmail.com or join our Slack channel.
 
 ---
 
